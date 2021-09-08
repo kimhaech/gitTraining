@@ -6,5 +6,7 @@ about-page
     2010 - event2
     2021 - 현재
 2. goal
-
+    - 돈
+    - 명예
+    - 권력
 3. location
