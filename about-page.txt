@@ -3,5 +3,7 @@ about-page
 1. history
 
 2. goal
-
+    - 돈
+    - 명예
+    - 권력
 3. location
