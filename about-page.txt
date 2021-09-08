@@ -10,3 +10,4 @@ about-page
     - 명예
     - 권력
 3. location
+    공과대학 3층
