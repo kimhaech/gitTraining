@@ -10,9 +10,5 @@ about-page
     - 명예
     - 권력
 3. location
-<<<<<<< HEAD
-    공과대학
-=======
     공과대학
     316호
->>>>>>> feature/location
