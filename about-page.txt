@@ -1,7 +1,10 @@
 about-page
 
 1. history
-
+    1999 - 시작
+    2000 - event1
+    2010 - event2
+    2021 - 현재
 2. goal
 
 3. location
